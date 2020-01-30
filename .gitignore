@@ -1,0 +1,14 @@
+*.DS_Store
+*.cproject
+*.mxproject
+*.settings
+*.project
+Debug/*
+Drivers/*
+Inc/*
+Middlewares/*
+*.md
+*.ld
+Src/*
+Startup/*
+*.elf.launch
