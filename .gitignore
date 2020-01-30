@@ -7,7 +7,6 @@ Debug/*
 Drivers/*
 Inc/*
 Middlewares/*
-*.md
 *.ld
 Src/*
 Startup/*
